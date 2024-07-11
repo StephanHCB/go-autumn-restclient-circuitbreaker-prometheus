@@ -6,7 +6,7 @@ require (
 	github.com/StephanHCB/go-autumn-restclient v0.8.0
 	github.com/StephanHCB/go-autumn-restclient-circuitbreaker v0.4.0
 	github.com/prometheus/client_golang v1.12.1
-	github.com/sony/gobreaker v0.5.0
+	github.com/sony/gobreaker v1.0.0
 )
 
 require (
