@@ -3,14 +3,14 @@ module github.com/StephanHCB/go-autumn-restclient-circuitbreaker-prometheus
 go 1.17
 
 require (
-	github.com/StephanHCB/go-autumn-restclient v0.8.0
+	github.com/StephanHCB/go-autumn-restclient v0.8.1
 	github.com/StephanHCB/go-autumn-restclient-circuitbreaker v0.4.0
 	github.com/prometheus/client_golang v1.19.1
 	github.com/sony/gobreaker v1.0.0
 )
 
 require (
-	github.com/StephanHCB/go-autumn-logging v0.3.0 // indirect
+	github.com/StephanHCB/go-autumn-logging v0.4.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/prometheus/client_model v0.5.0 // indirect
