@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/StephanHCB/go-autumn-restclient v0.8.1
-	github.com/StephanHCB/go-autumn-restclient-circuitbreaker v0.4.0
+	github.com/StephanHCB/go-autumn-restclient-circuitbreaker v0.5.0
 	github.com/prometheus/client_golang v1.19.1
 	github.com/sony/gobreaker v1.0.0
 )
